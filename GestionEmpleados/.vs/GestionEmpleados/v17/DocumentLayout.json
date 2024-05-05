@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|c:\\users\\gallo\\onedrive\\escritorio\\tareaprogramacion\\gestionempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|c:\\users\\gallo\\onedrive\\escritorio\\tareaprogramacion\\gestionempleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Empleado.cs",
               "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\Empleado.cs",
               "RelativeToolTip": "Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAJAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwEMAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T00:06:03.677Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEMAAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T00:00:54.12Z",
               "EditorCaption": ""

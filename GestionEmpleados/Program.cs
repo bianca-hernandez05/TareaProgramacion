@@ -52,7 +52,27 @@
                 }
                 return null; // Retorna null si no se encuentra ningun empleado con ese numero
             }
+
+            // instanciamos una variable tipo int guardando el numero de empleado que se desea aumentar el salario 
+            int numeroEmpleadoAumentarSalario = 103;
+            // se busca el empleado en nuestra lista con el numero especifico 
+            Empleado empleadoAumentarSalario = BuscarEmpleado(listaEmpleados, numeroEmpleadoAumentarSalario); 
            
+            //Se verifica que el empleado no sea nulo , si no es nulo se manda a llamar 
+            //a nuestro metodo l cual le pondremos a cuanto deseamos aumentar el salario del empleado
+            //luego mandamos a llamar a nuestro metodo de MostrarDetalles para que nos imprima los datos del empleado despues 
+            //del aumento de salario 
+            // si el empleado no es encontrado se escribe un mensaje que no fue encontrado 
+            if (empleadoAumentarSalario != null)
+            {
+                empleadoAumentarSalario.AumentarSalario(10); // Aumentar el salario en un 10% , este numero puede cambiarse
+                empleadoAumentarSalario.MostrarDetalles();
+            }
+            else
+            {
+                Console.WriteLine($"Empleado con número {numeroEmpleadoAumentarSalario} no fue encontrado.");
+            }
+
         }
     }
 }

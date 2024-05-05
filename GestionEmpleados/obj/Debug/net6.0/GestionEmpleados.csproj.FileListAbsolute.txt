@@ -12,3 +12,4 @@ C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\
 C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.pdb
 C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.genruntimeconfig.cache
 C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\ref\GestionEmpleados.dll
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.sourcelink.json

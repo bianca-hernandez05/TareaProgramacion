@@ -14,6 +14,7 @@ namespace GestionEmpleados
         private int numeroEmpleado;
         private decimal salario;
         private bool activo; // Estado del empleado (activo o inactivo)
+        private decimal Aumento;
 
         //Anexe un constructor para evitar el error que se me ocasionaba 
         //debido a que salia que el constructor no contenia 3 parametros , por lo tanto
@@ -57,6 +58,14 @@ namespace GestionEmpleados
             {
                 Console.WriteLine("Estado no valido.");
             }
+        }
+        // Metodo para aumentar salario
+        public void AumentarSalario(decimal PorcentajeAumento)
+        {
+            Aumento = salario * (PorcentajeAumento / 100); // lo dividimos a 100 para poder calcular el porcentaje
+            salario += Aumento;// actualiza el salario sumándole el monto del aumento calculado en el paso anterior
+            Console.WriteLine($"El salario de {nombre} ha sido aumentado en un {PorcentajeAumento}%");
+            Console.WriteLine($"Nuevo salario de {nombre}: {salario:C}");
         }
 
     }
