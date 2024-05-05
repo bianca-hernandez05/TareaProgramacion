@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|c:\\users\\gallo\\onedrive\\escritorio\\tareaprogramacion\\gestionempleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50FF13A-45F2-4485-8D9C-1D7EF1080342}|GestionEmpleados.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:06:03.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gallo\\OneDrive\\Escritorio\\TareaProgramacion\\GestionEmpleados\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:00:54.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

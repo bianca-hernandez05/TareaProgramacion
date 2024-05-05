@@ -1,0 +1,14 @@
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.AssemblyInfoInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.AssemblyInfo.cs
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.exe
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.deps.json
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.runtimeconfig.json
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.dll
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\bin\Debug\net6.0\GestionEmpleados.pdb
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.dll
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\refint\GestionEmpleados.dll
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.pdb
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\GestionEmpleados.genruntimeconfig.cache
+C:\Users\Gallo\OneDrive\Escritorio\TareaProgramacion\GestionEmpleados\obj\Debug\net6.0\ref\GestionEmpleados.dll
